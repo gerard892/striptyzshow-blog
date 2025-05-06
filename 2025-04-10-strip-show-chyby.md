@@ -1,7 +1,5 @@
-title: "Nejčastější chyby při plánování strip show"
-date:  2025-04-10 08:00:00 +0200
-layout: post
----layout:      post
+ "Nejčastější chyby při plánování strip show"
+
 categories:  [striptyz, plánování]
 tags:        [strip show, chyby, rozlučka, tipy]
 image:       /assets/img/strip-show-planovani.jpg
