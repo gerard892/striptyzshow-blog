@@ -8,7 +8,8 @@ Výhodou privátní show je zejména:
 
 Soukromí a pohodlí – zažijte striptýz v prostředí, které si sami vyberete.
 
-Výběr tanečnic – na webu www.striptyz-show.cz/stripterky si můžete sami vybrat tanečnice dle vašich představ.
+[Sexy striptérky na privátní show](https://www.striptyz-show.cz/stripterky/)
+
 
 Jedinečnost a originalita – každá show je unikátní a přizpůsobená přání zákazníka.
 
