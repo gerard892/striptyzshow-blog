@@ -1,9 +1,8 @@
  "Nejčastější chyby při plánování strip show"
 
-categories:  [striptyz, plánování]
-tags:        [strip show, chyby, rozlučka, tipy]
-image:       /assets/img/strip-show-planovani.jpg
----
+  [striptyz, plánování]
+       [strip show, chyby, rozlučka, tipy]
+
 
 Plánování striptýzového vystoupení může být vzrušující, ale také složitější, než se zdá. Ať už organizujete rozlučku se svobodou, narozeniny nebo firemní večírek, určitě nechcete, aby show skončila fiaskem. Níže najdete nejčastější chyby, kterým se vyhnout – a tipy, jak si zajistit perfektní zážitek.
 
