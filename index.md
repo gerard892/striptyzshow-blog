@@ -11,5 +11,5 @@ Tento blog přináší informace o striptýzových show, tipech a zákulisí.
 ## Nejnovější články
 
 {% for post in site.posts %}
-- [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) – {{ post.date | date: "%-d. %-m. %Y" }}
+- [{{ post.title }}]({{ post.url }}) – {{ post.date | date: "%-d. %-m. %Y" }}
 {% endfor %}
