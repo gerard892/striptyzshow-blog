@@ -1,9 +1,10 @@
 ---
 title: "Private Apartment Striptease in Prague – Intimate and Exclusive Entertainment"
 description: "Experience the thrill of a private striptease show in your apartment in Prague. Ideal for birthdays, bachelor parties or VIP events."
-date: 2025-07-20
-categories: [striptease, Prague, private-party, apartment]
-tags: [striptease Prague, private strip show, apartment party]
+keywords: [striptease Prague, private strip show, apartment party]
+permalink: /striptease-apartment-party-prague/
+author: "Striptyz Show"
+lang: "en"
 ---
 
 # Private Apartment Striptease in Prague – Intimate and Exclusive Entertainment
