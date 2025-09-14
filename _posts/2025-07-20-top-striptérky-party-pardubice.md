@@ -2,8 +2,10 @@
 title: "Top striptérky pro vaši párty v Pardubicích – Zážitek na úrovni"
 description: "Hledáte sexy vystoupení pro rozlučku nebo oslavu v Pardubicích? Top striptérky zaručí profesionální show a nezapomenutelnou atmosféru."
 date: 2025-07-20
-categories: [striptýz, Pardubice, párty, zábava]
-tags: [striptérky Pardubice, párty strip, erotická show]
+keywords: [striptérky Pardubice, párty strip, erotická show]
+permalink: /top-stripterky-party-pardubice/
+author: "Striptyz Show"
+lang: "cs"
 ---
 
 # Top striptérky pro vaši párty v Pardubicích – Zážitek na úrovni
