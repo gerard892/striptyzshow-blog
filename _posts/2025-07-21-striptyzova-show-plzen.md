@@ -2,8 +2,10 @@
 title: "Striptýzová show v Plzni – Zábava, na kterou nezapomenete"
 description: "Objevte profesionální striptýzové show v Plzni. Skvělé vystoupení pro rozlučky, oslavy i soukromé párty. Objednejte si show na míru."
 date: 2025-07-21
-categories: [striptýz, Plzeň, show, párty]
-tags: [striptýz Plzeň, erotická show, párty]
+keywords: [striptýz Plzeň, erotická show, párty]
+permalink: /striptyzova-show-plzen/
+author: "Striptyz Show"
+lang: "cs"
 ---
 
 # Striptýzová show v Plzni – Zábava, na kterou nezapomenete
