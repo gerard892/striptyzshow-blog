@@ -2,6 +2,8 @@
 title: "Pražská Strip Scéna s Nádechem Exkluzivity"
 description: "Praha nabízí nejen klasické strip bary, ale i luxusní show na úrovni. Objevte exkluzivní strip zážitky, které překonají vaše očekávání."
 permalink: /prazska-strip-scena-s-nadechem-exkluzivity/
+author: "Striptyz Show"
+lang: "cs"
 ---
 
 # Pražská Strip Scéna s Nádechem Exkluzivity
