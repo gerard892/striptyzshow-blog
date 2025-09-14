@@ -2,6 +2,8 @@
 title: "Striptýz Praha: kdy začít kariéru a kdy skončit"
 description: "Chcete začít kariéru ve striptýzu v Praze? Zjistěte, kdy je ten pravý čas začít a kdy naopak odejít na vrcholu. Kariéra striptéra má svá pravidla."
 permalink: /striptyz-praha-kdy-zacit-a-kdy-skoncit/
+author: "Striptyz Show"
+lang: "cs"
 ---
 
 # Striptýz Praha: kdy začít kariéru a kdy skončit
