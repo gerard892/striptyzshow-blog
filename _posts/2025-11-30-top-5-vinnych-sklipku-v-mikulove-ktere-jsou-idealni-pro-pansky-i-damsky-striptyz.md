@@ -46,4 +46,60 @@ V jedné budově máte:
 - degustační místnost,  
 - ubytování.
 
-Vystoupení může proběhnout buď ve sklípku, nebo později v soukromém
+Vystoupení může proběhnout buď ve sklípku, nebo později v soukromém salónku penzionu.
+
+---
+
+## 4. Stylový moderní sklípek s velkým sálem
+
+Pro ty, kteří milují moderní design a chtějí mít dost místa pro show.  
+Výhody:
+- velká taneční plocha  
+- výborné ozvučení  
+- možnost dekorací a osvětlení
+
+Pro striptýzovou show ideální prostředí s atmosférou menšího klubu, ale v soukromí.
+
+---
+
+## 5. Historický sklípek s klenbami – nejromantičtější volba
+
+Klenuté stropy, kamenné stěny a intimní atmosféra dělají z tohoto sklípku jeden z nejžádanějších v Mikulově.  
+Skvělé pro:
+- elegantní dámský striptýz  
+- sexy pánské vystoupení v menším prostoru  
+- degustační večery spojené s překvapením
+
+Tanečníci zde často vystupují v tematických kostýmech (gentleman, hasič, policista…).
+
+---
+
+## Kde objednat vystoupení: rezervace striptýz Mikulov
+
+Pro profesionální tanečníky či tanečnice, kteří přijedou **přímo do vámi vybraného sklípku**, využij službu:
+
+👉 **[rezervace striptýz Mikulov](https://www.strip-brno.cz/striptyz-mikulov/)**
+
+Získáš:
+- dámské i pánské show,  
+- elegantní i žhavé choreografie,  
+- možnost výběru kostýmů,  
+- diskrétní příjezd kamkoli v Mikulově i okolí.
+
+---
+
+## Tipy pro perfektní večer
+
+- vždy ověř, že majitel sklípku povoluje externí program,  
+- vyzkoušej ozvučení nebo hudbu před začátkem,  
+- připrav místo pro vystoupení (stůl, židle, volný prostor),  
+- domluv překvapení pro oslavence s umělcem předem.
+
+---
+
+## Závěr
+
+Mikulov nabízí výjimečné prostředí, kde se dá skvěle spojit víno, atmosféra a profesionální striptýzová show. Ať už plánuješ dámskou jízdu, pánskou rozlučku nebo luxusní večírek, vinné sklípky v Mikulově jsou perfektní volbou.
+
+➡️ **[Objednat striptýz Mikulov](https://www.strip-brno.cz/striptyz-mikulov/)**  
+
